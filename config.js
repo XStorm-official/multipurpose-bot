@@ -1,8 +1,8 @@
 module.exports = {
     app: {
         px: '+',
-        token: 'MTEyNjU4NzAzNTQyODM0Mzg5OQ.GURjOX.z3Qh3N8BZlj8CYsIdHOg7GglBFQ8-KFxiErefo',
-        owners: '1096572738606469171',
+        token: 'TOKEN DU BOT',
+        owners: 'TON ID',
         serveur: 'NOM DU SERVEUR',
         color: '#FFFFFF',
         footer: 'Multipurpose Bot',

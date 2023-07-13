@@ -39,8 +39,9 @@ Pour configurer le fichier [config.js](https://github.com/xanero-studio/multipur
 module.exports = {
     app: {
         px: '+',
-        token: 'MTEyNjU4NzAzNTQyODM0Mzg5OQ.GURjOX.z3Qh3N8BZlj8CYsIdHOg7GglBFQ8-KFxiErefo',
-        owners: '1096572738606469171',
+        token: 'TOKEN DU BOY',
+        owners: 'TON ID',
+        serveur: 'NOM DU SERVEUR',
         color: '#FF0000',
         footer: 'Multipurpose Bot',
         maxserver: '1',
