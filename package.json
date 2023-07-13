@@ -3,7 +3,7 @@
   "main": "index.js",
   "author": "xstorm-official",
   "version": "1.0.0",
-  "description": "Un bot multifonction pour votre serveur discord.",
+  "description": "Un bot Discord riche en fonctionnalités pour une utilisation simple et facile pour tous ses utilisateurs.",
   "scripts": {
     "start": "node index.js"
   },
